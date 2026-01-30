@@ -1,0 +1,23 @@
+.DS_Store
+.idea/
+
+# Rust
+/target
+Cargo.lock
+
+# Coverage
+*.profraw
+*.profdata
+lcov.info
+coverage.txt
+
+# Logs
+*.log
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Temporary
+/tmp
